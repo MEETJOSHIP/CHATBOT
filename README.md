@@ -1,5 +1,7 @@
 # Llama-3 Powered Chatbot with Session Persistence CHATBOT
 
+<img width="1919" height="905" alt="Screenshot 2026-04-09 154638" src="https://github.com/user-attachments/assets/e2e0a39d-4dd8-48d6-9156-aa63cd0f1aec" />
+
 A full-stack AI chatbot application built with Streamlit and Groq Cloud API, featuring a multi-user authentication system and persistent chat history. This project mimics the ChatGPT user experience, allowing users to create, rename, and delete multiple chat sessions that are saved locally.
 
 Key Features:
